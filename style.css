@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    padding:5px;
+}
+h1 {
+   font-size:32px;
+   color:rgb(76, 72, 132) ;
+   border:2px solid rgb(76, 72, 132) ;
+   border-radius:15px;
+   margin:10px;
+   padding:10px;
+   text-align:center;
+}
+ footer {
+    background-color: #8FBC8F;
+  padding:10px ;
+ }
+  
+  footer p {
+ background-color: white;
+ padding:10px ;
+ margin:10px ;
+  }
+  select {
+    padding:10px;
+    background-color:white;
+    color:royalblue;
+    border-radius:10px;
+    font-size:20px;
+    border:3px solid navy;
+    
+    
+  }
+  select option {
+ background-color:navy;
+ color:white;
+  }
+  nav {
+    padding:10px;
+    margin:10px;
+    background-color: blue;
+    border-radius:15px;
+  
+  
+  }
+   
+   nav a {
+    margin: 20px;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+   }
+   .product {
+ background-color: cyan;
+ padding:10px;
+ margin:10px;
+   }
+    
+    h2 {
+      color:blue ;
+      margin:10px;
+    }
+    a {
+      text-decoration:none;
+      border:2px solid navy;
+      padding:5px;
+      color:navy;
+      font-size:20px;
+    }
